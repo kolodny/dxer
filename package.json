@@ -1,0 +1,16 @@
+{
+  "name": "dxer",
+  "version": "0.0.0",
+  "description": "Handle actions and reducers sanely",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.3.1"
+  }
+}
